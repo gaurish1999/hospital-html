@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+table{
+  margin: auto;
+  border-collapse: collapse;
+  width: auto;
+}
+
+td{
+  padding: 15px;
+}
+input[type=text], [type=number]{
+  width: 100%;
+}
+button{
+  padding: 20px;
+  width: 100%;
+}
+button:hover{
+  cursor: pointer;
+}
